@@ -1,2 +1,2 @@
 -  Hi, I’m @egemenguler
--  I'm currently a freshman at Bilkent CS.
+-  I'm currently a sophomore at METU Computer Engineering.
