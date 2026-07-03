@@ -1,2 +1,2 @@
 -  Hi, I’m @egemenguler
--  I'm currently a sophomore at METU Computer Engineering.
+-  I'm currently a junior at METU Computer Engineering.
